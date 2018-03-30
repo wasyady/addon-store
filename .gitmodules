@@ -1,0 +1,3 @@
+[submodule "scripts/mxschmitt/youtube-webinterface/data"]
+	path = scripts/mxschmitt/youtube-webinterface/data
+	url = https://github.com/mxschmitt/YoutubeWebinterface
